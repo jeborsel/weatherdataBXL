@@ -1,0 +1,10 @@
+Package: weatherdataBXL
+Type: Package
+Title: Package holding historical data of weatherstation 064510-99999 in Brussels 
+Version: 0.1.0
+Author: jeborsel
+Maintainer: Bert Jehoul <bert@openknowledge.be>
+Description: Package holding historical data of weatherstation 064510-99999 in Brussels coming from ftp://ftp.ncdc.noaa.gov/pub/data/noaa/isd-lite/
+License: MIT
+Encoding: UTF-8
+LazyData: true

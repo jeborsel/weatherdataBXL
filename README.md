@@ -3,9 +3,9 @@ R package holding the weatherdata for weather station 064510-99999 (https://geog
 
 Data also available via jeborsel.ocpu.io :
 - json: 
-  - [weatherdataBXL json](http://jeborsel.ocpu.io/bebudgetdata/data/weatherdataBXL/json)
+  - [weatherdataBXL json](http://jeborsel.ocpu.io/weatherdataBXL/data/weatherdataBXL/json)
 
 - csv:
-  - [weatherdataBXL csv](http://jeborsel.ocpu.io/weatherdataBXL/data/nfgovaccount/csv)
+  - [weatherdataBXL csv](http://jeborsel.ocpu.io/weatherdataBXL/data/weatherdataBXL/csv)
   
 *Source of the data: [ftp://ftp.ncdc.noaa.gov/pub/data/noaa/isd-lite/](ftp://ftp.ncdc.noaa.gov/pub/data/noaa/isd-lite/)
